@@ -1,0 +1,24 @@
+{
+    "menu":[
+        {
+            "name": "Capricciosa",
+            "ingredients": ["Mozzarella", "Prosciutto", "Mushrooms"],
+            "price" : 125.00
+        },
+        {
+            "name": "Margherita",
+            "ingredients": ["Mozzarella", "Fresh basil leaves", "Extra virgin olive"],
+            "price" : 115.00
+        },
+        {
+            "name": "Quattro Formaggi",
+            "ingredients": ["Mozzarella","Gorgonzola","Fontina","Parmesan"],
+            "price" : 130.00
+        },
+        {
+            "name": "Vegetariana",
+            "ingredients": ["Bell pepper","Black olives","Onion"],
+            "price" : 115.00
+        }
+    ]
+}

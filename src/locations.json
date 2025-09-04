@@ -1,0 +1,19 @@
+{
+    "locations": [
+        {
+            "city" : "Tønsberg",
+            "street" : "Nedre langgate 32A",
+            "phone" : "4455556672"
+        },
+        {
+            "city" : "Sandefjord",
+            "street" : "Øvre torggate 16",
+            "phone" : "5455256672"
+        },
+        {
+            "city" : "Larvik",
+            "street" : "Bøkkergata 42",
+            "phone" : "9845552172"
+        }
+    ]
+}
