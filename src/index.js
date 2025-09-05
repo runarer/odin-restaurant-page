@@ -1,6 +1,7 @@
 import "./style.css"
 import createHome from "./home";
 import createMenu from "./menu";
+import createLocationCards from "./locations";
 
 let content = document.getElementById("content");
 content.append( createHome() ); // Load on page load
@@ -12,5 +13,5 @@ let menuButton = document.getElementById("menu");
 menuButton.addEventListener("click",() => { content.replaceChildren( createMenu() ); });
 
 let locationsButton = document.getElementById("locations");
-locationsButton.addEventListener("click",() => { content.replaceChildren( ); });
+locationsButton.addEventListener("click",() => { content.replaceChildren( createLocationCards() ); });
 
